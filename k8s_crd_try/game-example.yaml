@@ -1,0 +1,7 @@
+apiVersion: example.com/v1
+kind: MyResource
+metadata:
+  name: myex
+spec:
+  field1: hello
+  field2: world

@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: ReplicaSet
+metadata:
+  name: welcome-rs
+  labels:
+    app: welcome-rs
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: welcome-rs
+  template:
+    metadata:
+      labels:
+        app: welcome-rs
+    spec:
+      containers:
+      - name: welcome-rs
+        image: swayaanthanu/rs:1.0.0-RELEASE

@@ -1,0 +1,10 @@
+apiVersion: myoperator.example.com/v1alpha1
+kind: MySQL
+metadata:
+  name: example-mysql
+  namespace: your-namespace
+spec:
+  replicas: 3
+  storageSize: 10Gi
+  username: myuser
+  password: mypassword

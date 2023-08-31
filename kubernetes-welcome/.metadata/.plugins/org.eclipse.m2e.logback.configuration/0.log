@@ -1,0 +1,147 @@
+2023-07-28 17:06:07,873 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-07-28 17:08:18,138 [Worker-2: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.kubernetes:replicaset:0.0.1-SNAPSHOT @ E:\Content Mgt\project_resources\kubernetes-welcome\replicaset\pom.xml.
+2023-07-28 17:08:19,021 [Worker-2: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/3.1.2/spring-boot-devtools-3.1.2.pom
+2023-07-28 17:08:19,073 [Worker-2: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/3.1.2/spring-boot-devtools-3.1.2.pom
+2023-07-28 17:08:19,722 [Worker-2: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/3.1.2/spring-boot-devtools-3.1.2.jar
+2023-07-28 17:08:19,866 [Worker-2: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/3.1.2/spring-boot-devtools-3.1.2.jar
+2023-07-28 17:08:22,184 [Worker-2: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /replicaset/src/main/java
+2023-07-28 17:08:22,184 [Worker-2: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /replicaset/src/main/resources
+2023-07-28 17:08:22,190 [Worker-2: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /replicaset/src/main/resources
+2023-07-28 17:08:22,204 [Worker-2: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /replicaset/src/test/java
+2023-07-28 17:08:23,272 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/3.1.2/spring-boot-devtools-3.1.2-sources.jar
+2023-07-28 17:08:23,408 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/3.1.2/spring-boot-devtools-3.1.2-sources.jar
+2023-07-28 17:08:23,609 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-devtools:3.1.2
+2023-07-28 17:08:25,725 [Worker-2: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 11 sec
+2023-07-28 17:08:25,728 [Worker-2: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-07-28 17:08:26,422 [Worker-2: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.kubernetes:replicaset:0.0.1-SNAPSHOT @ E:\Content Mgt\project_resources\kubernetes-welcome\replicaset\pom.xml.
+2023-07-28 17:08:27,004 [Worker-2: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /replicaset/src/main/java
+2023-07-28 17:08:27,004 [Worker-2: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /replicaset/src/main/resources
+2023-07-28 17:08:27,004 [Worker-2: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /replicaset/src/main/resources
+2023-07-28 17:08:27,005 [Worker-2: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /replicaset/src/test/java
+2023-07-28 17:08:27,519 [Worker-2: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2023-07-28 17:08:28,934 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-28 17:08:28,949 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 17:08:28,952 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Content Mgt\project_resources\kubernetes-welcome\replicaset\src\test\resources
+2023-07-28 17:09:00,567 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-28 17:09:00,578 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 17:09:00,581 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Content Mgt\project_resources\kubernetes-welcome\replicaset\src\test\resources
+2023-07-28 17:09:20,720 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-28 17:09:20,730 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 17:09:20,733 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Content Mgt\project_resources\kubernetes-welcome\replicaset\src\test\resources
+2023-07-28 17:09:38,898 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-28 17:09:38,910 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 17:09:38,913 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Content Mgt\project_resources\kubernetes-welcome\replicaset\src\test\resources
+2023-07-28 17:11:43,494 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-28 17:11:43,498 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 17:11:43,500 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Content Mgt\project_resources\kubernetes-welcome\replicaset\src\test\resources
+2023-07-28 17:12:01,740 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-28 17:12:01,753 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 17:12:01,755 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Content Mgt\project_resources\kubernetes-welcome\replicaset\src\test\resources
+2023-07-28 17:12:28,174 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-07-28 17:12:28,856 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.kubernetes:replicaset:0.0.1-SNAPSHOT @ E:\Content Mgt\project_resources\kubernetes-welcome\replicaset\pom.xml.
+2023-07-28 17:12:29,216 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /replicaset/src/main/java
+2023-07-28 17:12:29,216 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /replicaset/src/main/resources
+2023-07-28 17:12:29,216 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /replicaset/src/main/resources
+2023-07-28 17:12:29,217 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /replicaset/src/test/java
+2023-07-28 17:12:29,541 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2023-07-28 17:12:30,186 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-28 17:12:30,200 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 17:12:30,202 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Content Mgt\project_resources\kubernetes-welcome\replicaset\src\test\resources
+2023-07-28 17:13:14,953 [Worker-2: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.kubernetes:replicaset:0.0.1-SNAPSHOT @ E:\Content Mgt\project_resources\kubernetes-welcome\replicaset\pom.xml.
+2023-07-28 17:13:16,304 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 17:13:16,305 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 17:13:16,307 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Content Mgt\project_resources\kubernetes-welcome\replicaset\src\test\resources
+2023-07-28 17:13:17,947 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-28 17:13:17,957 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 17:13:17,960 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Content Mgt\project_resources\kubernetes-welcome\replicaset\src\test\resources
+2023-07-28 17:13:25,008 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-28 17:13:25,014 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 17:13:25,015 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Content Mgt\project_resources\kubernetes-welcome\replicaset\src\test\resources
+2023-07-28 17:13:43,447 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-28 17:13:43,452 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 17:13:43,453 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Content Mgt\project_resources\kubernetes-welcome\replicaset\src\test\resources
+2023-07-28 17:14:42,674 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 17:14:42,674 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 17:14:42,675 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Content Mgt\project_resources\kubernetes-welcome\replicaset\src\test\resources
+2023-07-28 17:14:46,505 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-28 17:14:46,507 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 17:14:46,509 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Content Mgt\project_resources\kubernetes-welcome\replicaset\src\test\resources
+2023-07-28 17:15:16,238 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-28 17:15:16,240 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 17:15:16,242 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Content Mgt\project_resources\kubernetes-welcome\replicaset\src\test\resources
+2023-07-28 17:16:45,317 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 17:16:45,317 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 17:16:45,319 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Content Mgt\project_resources\kubernetes-welcome\replicaset\src\test\resources
+2023-07-28 17:17:45,125 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.kubernetes:replicaset:0.0.1-SNAPSHOT @ E:\Content Mgt\project_resources\kubernetes-welcome\replicaset\pom.xml.
+2023-07-28 17:17:45,642 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 17:17:45,642 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 17:17:45,644 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Content Mgt\project_resources\kubernetes-welcome\replicaset\src\test\resources
+2023-07-28 17:18:08,784 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 17:18:08,785 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 17:18:08,786 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Content Mgt\project_resources\kubernetes-welcome\replicaset\src\test\resources
+2023-07-28 17:18:14,620 [Worker-12: Launching Executing clean in E__Content Mgt_project_resources_kubernetes-welcome_replicaset] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Content Mgt\project_resources\kubernetes-welcome\replicaset
+2023-07-28 17:18:14,620 [Worker-12: Launching Executing clean in E__Content Mgt_project_resources_kubernetes-welcome_replicaset] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B clean -Dstyle.color=always
+2023-07-28 17:18:16,783 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-28 17:18:16,796 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 17:18:16,798 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Content Mgt\project_resources\kubernetes-welcome\replicaset\src\test\resources
+2023-07-28 17:18:24,074 [Worker-4: Launching Executing install in E__Content Mgt_project_resources_kubernetes-welcome_replicaset] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Content Mgt\project_resources\kubernetes-welcome\replicaset
+2023-07-28 17:18:24,075 [Worker-4: Launching Executing install in E__Content Mgt_project_resources_kubernetes-welcome_replicaset] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install -Dstyle.color=always
+2023-07-28 17:18:35,557 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-28 17:18:35,559 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 17:18:35,560 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Content Mgt\project_resources\kubernetes-welcome\replicaset\src\test\resources
+2023-07-28 17:24:13,641 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 17:24:13,642 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 17:24:13,643 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Content Mgt\project_resources\kubernetes-welcome\replicaset\src\test\resources
+2023-07-28 17:24:21,379 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 17:24:21,379 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 17:24:21,381 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Content Mgt\project_resources\kubernetes-welcome\replicaset\src\test\resources
+2023-07-28 17:25:45,736 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 17:25:45,736 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 17:25:45,737 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Content Mgt\project_resources\kubernetes-welcome\replicaset\src\test\resources
+2023-07-28 17:31:49,195 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 17:31:49,195 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 17:31:49,198 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Content Mgt\project_resources\kubernetes-welcome\replicaset\src\test\resources
+2023-07-28 17:32:24,130 [Worker-21: Launching Executing clean in E__Content Mgt_project_resources_kubernetes-welcome_replicaset] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Content Mgt\project_resources\kubernetes-welcome\replicaset
+2023-07-28 17:32:24,130 [Worker-21: Launching Executing clean in E__Content Mgt_project_resources_kubernetes-welcome_replicaset] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B clean -Dstyle.color=always
+2023-07-28 17:32:26,474 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-28 17:32:26,476 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 17:32:26,478 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Content Mgt\project_resources\kubernetes-welcome\replicaset\src\test\resources
+2023-07-28 17:32:42,748 [Worker-11: Launching Executing install in E__Content Mgt_project_resources_kubernetes-welcome_replicaset] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Content Mgt\project_resources\kubernetes-welcome\replicaset
+2023-07-28 17:32:42,749 [Worker-11: Launching Executing install in E__Content Mgt_project_resources_kubernetes-welcome_replicaset] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install -Dstyle.color=always
+2023-07-28 17:32:53,668 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-28 17:32:53,670 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 17:32:53,672 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Content Mgt\project_resources\kubernetes-welcome\replicaset\src\test\resources
+2023-07-28 17:34:57,231 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 17:34:57,231 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 17:34:57,233 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Content Mgt\project_resources\kubernetes-welcome\replicaset\src\test\resources
+2023-07-28 17:35:36,008 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 17:35:36,009 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 17:35:36,010 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Content Mgt\project_resources\kubernetes-welcome\replicaset\src\test\resources
+2023-07-28 17:36:39,374 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 17:36:39,374 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 17:36:39,376 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Content Mgt\project_resources\kubernetes-welcome\replicaset\src\test\resources
+2023-07-28 17:39:57,328 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 17:39:57,329 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 17:39:57,331 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Content Mgt\project_resources\kubernetes-welcome\replicaset\src\test\resources
+2023-07-28 17:40:10,052 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 17:40:10,052 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 17:40:10,055 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Content Mgt\project_resources\kubernetes-welcome\replicaset\src\test\resources
+2023-07-28 17:40:13,326 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 17:40:13,326 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 17:40:13,331 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Content Mgt\project_resources\kubernetes-welcome\replicaset\src\test\resources
+2023-07-28 18:08:02,858 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-28 18:08:02,930 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 18:08:02,933 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Content Mgt\project_resources\kubernetes-welcome\replicaset\src\test\resources
+2023-07-28 18:08:11,073 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-28 18:08:11,092 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 18:08:11,094 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Content Mgt\project_resources\kubernetes-welcome\replicaset\src\test\resources
+2023-07-28 18:08:25,337 [Worker-28: Launching Executing clean in E__Content Mgt_project_resources_kubernetes-welcome_replicaset] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Content Mgt\project_resources\kubernetes-welcome\replicaset
+2023-07-28 18:08:25,337 [Worker-28: Launching Executing clean in E__Content Mgt_project_resources_kubernetes-welcome_replicaset] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B clean -Dstyle.color=always
+2023-07-28 18:08:27,621 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-28 18:08:27,622 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 18:08:27,623 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Content Mgt\project_resources\kubernetes-welcome\replicaset\src\test\resources
+2023-07-28 18:08:31,285 [Worker-27: Launching Executing install in E__Content Mgt_project_resources_kubernetes-welcome_replicaset] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Content Mgt\project_resources\kubernetes-welcome\replicaset
+2023-07-28 18:08:31,286 [Worker-27: Launching Executing install in E__Content Mgt_project_resources_kubernetes-welcome_replicaset] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install -Dstyle.color=always
+2023-07-28 18:08:42,038 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-28 18:08:42,039 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-28 18:08:42,041 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Content Mgt\project_resources\kubernetes-welcome\replicaset\src\test\resources

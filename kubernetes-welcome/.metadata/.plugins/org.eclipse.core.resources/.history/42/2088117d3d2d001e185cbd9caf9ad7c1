@@ -1,0 +1,4 @@
+FROM openjdk:11.0.15-jre
+ADD target/*.jar rsdemo.jar
+ENV kubernetes.pod.id=folks
+ENTRYPOINT ["java","-jar","rsdemo.jar"]

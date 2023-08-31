@@ -1,0 +1,5 @@
+package com.kubernetes.replicaset.controller;
+
+public class ReplicasetDemo {
+
+}

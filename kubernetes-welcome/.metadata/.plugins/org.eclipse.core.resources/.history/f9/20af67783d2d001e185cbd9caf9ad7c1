@@ -1,0 +1,3 @@
+FROM openjdk:11.0.15-jre
+ADD target/*.jar rsdemo.jar
+ENTRYPOINT ["java","-jar","rsdemo.jar"]
