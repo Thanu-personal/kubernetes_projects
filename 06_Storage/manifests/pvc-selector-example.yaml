@@ -1,0 +1,28 @@
+kind: PersistentVolumeClaim
+apiVersion: v1
+metadata:
+  name: pvc-selector-example
+spec:
+  accessModes:
+    - ReadWriteMany
+  resources:
+    requests:
+      storage: 1Gi
+  selector:
+    matchLabels:
+      type: hostpath
+
+# kind: PersistentVolume
+# apiVersion: v1
+# metadata:
+#   name: pv-selector-example
+#   labels:
+#     type: hostpath
+# spec:
+#   capacity:
+#     storage: 2Gi
+#   accessModes:
+#     - ReadWriteMany
+#   hostPath:
+#     type: DirectoryOrCreate
+#     path: "/data/mypvselector"

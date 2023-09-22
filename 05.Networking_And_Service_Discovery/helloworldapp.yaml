@@ -1,0 +1,39 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: helloworldapp
+spec:
+  # minReadySeconds: 30
+  selector:
+    matchLabels:
+      app: helloworldapp
+  replicas: 1
+  template: # template for the pods
+    metadata:
+      labels:
+        app: helloworldapp
+    spec:
+      containers:
+      - name: helloworldapp
+        image: swayaanthanu/helloworld:1.0.0-RELEASE
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: svc-helloworldapp
+
+spec:
+  # This defines which pods are going to be represented by this Service
+  # The service becomes a network endpoint for either other services
+  # or maybe external users to connect to (eg browser)
+  selector:
+    app: helloworldapp
+
+  ports:
+    - name: http
+      port: 8080
+      nodePort: 30080
+
+  type: NodePort
+---
